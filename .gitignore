@@ -1,3 +1,8 @@
+PreprocesamientoMachine/normalized_leaves/*
+PreprocesamientoMachine/augmented_leaves/*
+PreprocesamientoMachine/filtered_leaves/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
